@@ -27,11 +27,11 @@ repository               : "hhyunn2/hhyunn2.github.io" # GitHub username/repo-na
 
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_cllor: #fff
+  overlay_cllor: "/assets/images/nathan-dumlao-KixfBEdyp64-unsplash.jpg"
   caption: "Photo credit: [**Unsplash**]"
 
 
-teaser                   : assets/images/artificial-intelligence.jpg
+teaser                   : "/assets/images/artificial-intelligence.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

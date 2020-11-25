@@ -27,11 +27,11 @@ repository               : "hhyunn2/hhyunn2.github.io" # GitHub username/repo-na
 
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/artificial-intelligence.jpg
-  caption: "Photo credit: [**Pixabay**]"
+  overlay_cllor: "/assets/images/nathan-dumlao-KixfBEdyp64-unsplash.jpg"
+  caption: "Photo credit: [**Unsplash**]"
 
 
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/artificial-intelligence.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyun In Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student studying AI"
-  location         : "Somewhere"
+  location         : "Yonsei University, Seoul"
   email            :
   links:
     - label: "Email"
